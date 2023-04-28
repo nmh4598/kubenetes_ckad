@@ -7,7 +7,7 @@
 ## 4. Configure ConfigMaps in application
 
 ## 5. Secrets
-
+Encrypting Secret Data at Rest ?? 
 ## 6. Mumti Container Pods
 
 ## 7. Init container
