@@ -1,4 +1,4 @@
-# 1. ETCD – Commands (Optional)
+## 1. ETCD – Commands (Optional)
 
 (Optional) Additional information about ETCDCTL UtilityETCDCTL is the CLI tool used to interact with ETCD.ETCDCTL can interact with ETCD Server using 2 API versions – Version 2 and Version 3.  By default it’s set to use Version 2. Each version has different sets of commands.
 
@@ -37,6 +37,17 @@ So for the commands, I showed in the previous video to work you must specify the
 ```bash
 kubectl exec etcd-controlplane -n kube-system -- sh -c "ETCDCTL_API=3 etcdctl get / --prefix --keys-only --limit=10 --cacert /etc/kubernetes/pki/etcd/ca.crt --cert /etc/kubernetes/pki/etcd/server.crt --key /etc/kubernetes/pki/etcd/server.key"
 ```
+## 2. Kube-api Server
+
+## 3. Kube Controller Manager
+
+## 4. Kube Scheduler
+
+## 5. Kubelet
+
+## 6. Kube Proxy
+
+## 7. Pods
 
 ```bash
 ```
