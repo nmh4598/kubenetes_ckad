@@ -1,0 +1,7 @@
+# Certificate Health Check Spreadsheet
+
+I have uploaded the Kubernetes Certificate Health Check Spreadsheet here:
+
+https://github.com/mmumshad/kubernetes-the-hard-way/tree/master/tools
+
+Feel free to send in a pull request if you improve it.
