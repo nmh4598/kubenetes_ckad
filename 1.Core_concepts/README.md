@@ -49,6 +49,13 @@ kubectl exec etcd-controlplane -n kube-system -- sh -c "ETCDCTL_API=3 etcdctl ge
 
 ## 7. Pods
 
+## 8. Replicasets
+
+## 9. Services 
+
+## 10. Namespaces
+
+
 ```bash
 ```
 
