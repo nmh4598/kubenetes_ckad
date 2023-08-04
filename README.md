@@ -1,5 +1,5 @@
 # kubenetes_ckad
-  
+     
 In the video, I said the exam is 3 hours. With the latest version of the exam, it is now only 2 hours. The contents of this course has been updated with the changes required for the latest version of the exam.
 
 Below are some references:
